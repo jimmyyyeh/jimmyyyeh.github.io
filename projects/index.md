@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: My Projects
+date: 2021-02-01
 comments: false
 ---
