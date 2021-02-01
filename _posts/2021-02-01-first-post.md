@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "First Post For Test"
-date: 2021-02-01
 excerpt: "This post is for test."
+date: 2021-02-01
 tags: [sample post, test]
 comments: false
 ---
