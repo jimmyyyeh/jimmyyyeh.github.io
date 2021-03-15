@@ -8,6 +8,7 @@ comments: false
 
 # Summary of Skills
 - Python
+- Golang
 - RDBMS(MySQL/MSSQL Server)
 - NoSQL(MongoDB/Redis)
 - Docker
